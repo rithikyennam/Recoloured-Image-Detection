@@ -1,1 +1,1 @@
-# Recoloured-Image-Detection
+# Recolored-Image-Detection
